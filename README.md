@@ -8,8 +8,10 @@ signo de ! y un tab
 
 ## Sitios para optimizar nuestras imagenes
 
-https://tinypng.com/
-
+Descargar imagenes
 https://www.pexels.com/es-es/
+
+Comprimir imagenes
+https://tinypng.com/
 
 https://unsplash.com/

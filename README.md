@@ -14,4 +14,8 @@ https://www.pexels.com/es-es/
 Comprimir imagenes
 https://tinypng.com/
 
+Borrar metadatos 
 https://unsplash.com/
+
+## etiquetas input
+https://www.w3schools.com/html/html_form_input_types.asp

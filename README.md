@@ -18,4 +18,7 @@ Borrar metadatos
 https://unsplash.com/
 
 ## etiquetas input
+
 https://www.w3schools.com/html/html_form_input_types.asp
+
+https://developer.mozilla.org/es/docs/web/html/element/input

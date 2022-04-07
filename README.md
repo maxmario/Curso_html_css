@@ -22,3 +22,7 @@ https://unsplash.com/
 https://www.w3schools.com/html/html_form_input_types.asp
 
 https://developer.mozilla.org/es/docs/web/html/element/input
+
+## etiquetas autocompletar
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete

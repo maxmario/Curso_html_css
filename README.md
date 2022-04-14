@@ -35,3 +35,6 @@ https://developer.mozilla.org/es/docs/web/css/pseudo-elements
 
 ## Metodologia BEM
 https://en.bem.info/methodology/faq/#why-bem
+
+## box-sizing
+https://developer.mozilla.org/es/docs/Web/CSS/box-sizing

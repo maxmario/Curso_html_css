@@ -14,3 +14,43 @@ p {
     color: yellow;
     font-size: 24px;
 }
+
+/* class main-nav */
+.main-nav {
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0%;
+    background-color: #13a4a4;
+}
+
+/* class main-nav__item */
+.main-nav__item {
+    display: inline-block;
+}
+
+/* class main-nav_item */
+/* etiqueta a */
+.main-nav__item a {
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+/* class main-nav_item */
+/* etiqueta a con pseudo clase hover */
+.main-nav__item a:hover {
+    color: blue;
+}
+
+/* class main-nav_item */
+/* etiqueta a con pseudo clase active */
+.main-nav__item a:active {
+    color: red;
+}
+
+/* class main-nav_item */
+/* etiqueta a con pseudo elemento after */
+.main-nav__item a::after {
+    content: " | ";
+}

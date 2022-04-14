@@ -4,7 +4,7 @@ Curso de html y css platzi
 
 ## Crear html index
 
-signo de ! y un tab
+Signo de ! y un tab
 
 ## Sitios para optimizar nuestras imagenes
 
@@ -17,12 +17,21 @@ https://tinypng.com/
 Borrar metadatos 
 https://unsplash.com/
 
-## etiquetas input
+## Etiquetas input
 
 https://www.w3schools.com/html/html_form_input_types.asp
 
 https://developer.mozilla.org/es/docs/web/html/element/input
 
-## etiquetas autocompletar
+## Etiquetas autocompletar
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
+
+## Pseudo clases
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
+
+## Pseudo elementos
+https://developer.mozilla.org/es/docs/web/css/pseudo-elements
+
+## Metodologia BEM
+https://en.bem.info/methodology/faq/#why-bem
